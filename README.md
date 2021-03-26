@@ -1,4 +1,4 @@
-# 100-days-of-Python
+# 100-days-of-Python Begginer Projects
 Projects from 100 days of Python an immersive Python programming coding boot-camp built around the 100 days of code challenge.
 https://www.udemy.com/course/100-days-of-code/
 
