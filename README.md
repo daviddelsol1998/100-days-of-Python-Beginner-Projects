@@ -1,5 +1,6 @@
 # 100-days-of-Python
 Projects from 100 days of Python an immersive Python programming coding boot-camp built around the 100 days of code challenge.
+https://www.udemy.com/course/100-days-of-code/
 
 The program focuses on hybrid online method of learning by building projects using the following technologies and concepts: 
 
